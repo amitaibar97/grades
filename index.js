@@ -15,3 +15,7 @@ secHalf.sort()
 halfRange= secHalf[secHalf.length-1]- secHalf[0]
 console.log(secHalf)
 console.log(halfRange)
+
+
+console.log("Stats:\n\tRange: "+range+"\n\tMedian: "+median+"\n\tHalf Range: "+halfRange)
+
